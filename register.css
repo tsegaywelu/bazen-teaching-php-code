@@ -1,0 +1,18 @@
+.head {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 2px 2px;
+  height: 60px;
+  margin-bottom: 50px;
+}
+
+img {
+  border-radius: 50%;
+}
+.head div:hover {
+  background-color: palegreen;
+}
+.myform {
+  border: 1px solid blue;
+}
